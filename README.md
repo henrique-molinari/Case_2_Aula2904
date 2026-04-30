@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Sistema de Gestão de Usuários
 
 Este é um sistema robusto de cadastro de usuários, focado em boas práticas de desenvolvimento e organização de código. O projeto utiliza uma arquitetura multicamadas para garantir a separação de responsabilidades e facilitar a manutenção.
